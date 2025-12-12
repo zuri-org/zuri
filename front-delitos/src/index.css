@@ -1,0 +1,43 @@
+body {
+  font-family: system-ui, sans-serif;
+  margin: 2rem;
+  background: #fafafa;
+}
+
+textarea {
+  width: 100%;
+  font-size: 1rem;
+  padding: .5rem;
+  resize: vertical;
+}
+
+button {
+  margin-top: .5rem;
+  padding: .5rem 1.2rem;
+  font-size: 1rem;
+}
+
+.error {
+  color: crimson;
+  margin-top: .5rem;
+}
+
+.resultado {
+  margin-top: 2rem;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: .5rem;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: .4rem .8rem;
+  text-align: left;
+}
+
+summary {
+  cursor: pointer;
+  margin-top: 1rem;
+}

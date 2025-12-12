@@ -1,0 +1,719 @@
+[{"COD":"ECP4961", "Nombre":"Total Nacional. Total. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":16420, "T3_Variable":"Nacionalidad", "Nombre":"Total", "Codigo":""}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":4.8486865E7}
+]
+}
+,{"COD":"ECP4901", "Nombre":"Total Nacional. Española. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":21386, "T3_Variable":"Nacionalidad", "Nombre":"Española", "Codigo":"1"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":4.2086016E7}
+]
+}
+,{"COD":"ECP4841", "Nombre":"Total Nacional. UE27_2020 sin España. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":370095, "T3_Variable":"Nacionalidad", "Nombre":"País de la UE27_2020 sin España", "Codigo":""}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":1723483.0}
+]
+}
+,{"COD":"ECP4781", "Nombre":"Total Nacional. UE28 sin España. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9946, "T3_Variable":"Nacionalidad", "Nombre":"País de la UE28 sin España", "Codigo":"2.11"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[]
+}
+,{"COD":"ECP4721", "Nombre":"Total Nacional. Bélgica. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9980, "T3_Variable":"Nacionalidad", "Nombre":"Bélgica", "Codigo":"103"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":42192.0}
+]
+}
+,{"COD":"ECP4661", "Nombre":"Total Nacional. Bulgaria. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23242, "T3_Variable":"Nacionalidad", "Nombre":"Bulgaria", "Codigo":"104"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":113994.0}
+]
+}
+,{"COD":"ECP4601", "Nombre":"Total Nacional. Dinamarca. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9981, "T3_Variable":"Nacionalidad", "Nombre":"Dinamarca", "Codigo":"107"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":9420.0}
+]
+}
+,{"COD":"ECP4541", "Nombre":"Total Nacional. Finlandia. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9982, "T3_Variable":"Nacionalidad", "Nombre":"Finlandia", "Codigo":"109"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":11929.0}
+]
+}
+,{"COD":"ECP4481", "Nombre":"Total Nacional. Francia. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9983, "T3_Variable":"Nacionalidad", "Nombre":"Francia", "Codigo":"110"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":123126.0}
+]
+}
+,{"COD":"ECP4421", "Nombre":"Total Nacional. Irlanda. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9986, "T3_Variable":"Nacionalidad", "Nombre":"Irlanda", "Codigo":"113"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":22653.0}
+]
+}
+,{"COD":"ECP4361", "Nombre":"Total Nacional. Italia. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9987, "T3_Variable":"Nacionalidad", "Nombre":"Italia", "Codigo":"115"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":321114.0}
+]
+}
+,{"COD":"ECP4301", "Nombre":"Total Nacional. Países Bajos. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9985, "T3_Variable":"Nacionalidad", "Nombre":"Países Bajos", "Codigo":"121"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":57594.0}
+]
+}
+,{"COD":"ECP4241", "Nombre":"Total Nacional. Polonia. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9996, "T3_Variable":"Nacionalidad", "Nombre":"Polonia", "Codigo":"122"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":58661.0}
+]
+}
+,{"COD":"ECP4181", "Nombre":"Total Nacional. Portugal. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9989, "T3_Variable":"Nacionalidad", "Nombre":"Portugal", "Codigo":"123"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":106654.0}
+]
+}
+,{"COD":"ECP4121", "Nombre":"Total Nacional. Alemania. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9978, "T3_Variable":"Nacionalidad", "Nombre":"Alemania", "Codigo":"126"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":127996.0}
+]
+}
+,{"COD":"ECP4061", "Nombre":"Total Nacional. Rumanía. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23259, "T3_Variable":"Nacionalidad", "Nombre":"Rumanía", "Codigo":"128"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":625398.0}
+]
+}
+,{"COD":"ECP4001", "Nombre":"Total Nacional. Suecia. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9991, "T3_Variable":"Nacionalidad", "Nombre":"Suecia", "Codigo":"131"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":24607.0}
+]
+}
+,{"COD":"ECP3941", "Nombre":"Total Nacional. Lituania. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23263, "T3_Variable":"Nacionalidad", "Nombre":"Lituania", "Codigo":"142"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":17388.0}
+]
+}
+,{"COD":"ECP3881", "Nombre":"Total Nacional. Otro país de la Unión Europea sin España. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":292909, "T3_Variable":"Nacionalidad", "Nombre":"Otro país de la Unión Europea sin España", "Codigo":"2.11.O"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":60757.0}
+]
+}
+,{"COD":"ECP3821", "Nombre":"Total Nacional. Europa menos UE27_2020. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":381931, "T3_Variable":"Nacionalidad", "Nombre":"País de Europa menos UE27_2020", "Codigo":""}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":696666.0}
+]
+}
+,{"COD":"ECP3761", "Nombre":"Total Nacional. Reino Unido. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9990, "T3_Variable":"Nacionalidad", "Nombre":"Reino Unido", "Codigo":"125"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":275702.0}
+]
+}
+,{"COD":"ECP3701", "Nombre":"Total Nacional. Europa menos UE28. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":16432, "T3_Variable":"Nacionalidad", "Nombre":"País de Europa menos UE28", "Codigo":"2.12"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[]
+}
+,{"COD":"ECP3641", "Nombre":"Total Nacional. Noruega. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9995, "T3_Variable":"Nacionalidad", "Nombre":"Noruega", "Codigo":"120"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":11447.0}
+]
+}
+,{"COD":"ECP3581", "Nombre":"Total Nacional. Suiza. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9998, "T3_Variable":"Nacionalidad", "Nombre":"Suiza", "Codigo":"132"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":14995.0}
+]
+}
+,{"COD":"ECP3521", "Nombre":"Total Nacional. Ucrania. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23276, "T3_Variable":"Nacionalidad", "Nombre":"Ucrania", "Codigo":"135"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":206861.0}
+]
+}
+,{"COD":"ECP3461", "Nombre":"Total Nacional. Moldavia. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23277, "T3_Variable":"Nacionalidad", "Nombre":"Moldavia", "Codigo":"137"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":16457.0}
+]
+}
+,{"COD":"ECP3401", "Nombre":"Total Nacional. Rusia. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":10000, "T3_Variable":"Nacionalidad", "Nombre":"Rusia", "Codigo":"154"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":104698.0}
+]
+}
+,{"COD":"ECP3341", "Nombre":"Total Nacional. Otro país del resto de Europa. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":292917, "T3_Variable":"Nacionalidad", "Nombre":"Otro país del resto de Europa", "Codigo":"2.12.O"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":66506.0}
+]
+}
+,{"COD":"ECP3281", "Nombre":"Total Nacional. África. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9947, "T3_Variable":"Nacionalidad", "Nombre":"De Africa", "Codigo":"2.02"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":1266785.0}
+]
+}
+,{"COD":"ECP3221", "Nombre":"Total Nacional. Argelia. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23287, "T3_Variable":"Nacionalidad", "Nombre":"Argelia", "Codigo":"203"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":72595.0}
+]
+}
+,{"COD":"ECP3161", "Nombre":"Total Nacional. Gambia. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23300, "T3_Variable":"Nacionalidad", "Nombre":"Gambia", "Codigo":"216"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":24443.0}
+]
+}
+,{"COD":"ECP3101", "Nombre":"Total Nacional. Ghana. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23301, "T3_Variable":"Nacionalidad", "Nombre":"Ghana", "Codigo":"217"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":21011.0}
+]
+}
+,{"COD":"ECP3041", "Nombre":"Total Nacional. Guinea. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23302, "T3_Variable":"Nacionalidad", "Nombre":"Guinea", "Codigo":"218"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":11039.0}
+]
+}
+,{"COD":"ECP2981", "Nombre":"Total Nacional. Guinea Ecuatorial. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23304, "T3_Variable":"Nacionalidad", "Nombre":"Guinea Ecuatorial", "Codigo":"220"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":13671.0}
+]
+}
+,{"COD":"ECP2921", "Nombre":"Total Nacional. Mali. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23311, "T3_Variable":"Nacionalidad", "Nombre":"Mali", "Codigo":"227"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":33194.0}
+]
+}
+,{"COD":"ECP2861", "Nombre":"Total Nacional. Marruecos. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23312, "T3_Variable":"Nacionalidad", "Nombre":"Marruecos", "Codigo":"228"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":912626.0}
+]
+}
+,{"COD":"ECP2801", "Nombre":"Total Nacional. Mauritania. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23314, "T3_Variable":"Nacionalidad", "Nombre":"Mauritania", "Codigo":"230"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":9311.0}
+]
+}
+,{"COD":"ECP2741", "Nombre":"Total Nacional. Nigeria. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23318, "T3_Variable":"Nacionalidad", "Nombre":"Nigeria", "Codigo":"234"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":33394.0}
+]
+}
+,{"COD":"ECP2681", "Nombre":"Total Nacional. Senegal. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23323, "T3_Variable":"Nacionalidad", "Nombre":"Senegal", "Codigo":"239"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":88200.0}
+]
+}
+,{"COD":"ECP2621", "Nombre":"Total Nacional. Otro país de África. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":292915, "T3_Variable":"Nacionalidad", "Nombre":"Otro país de África", "Codigo":"2.02.O"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":47301.0}
+]
+}
+,{"COD":"ECP2561", "Nombre":"Total Nacional. América del Norte. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":292919, "T3_Variable":"Nacionalidad", "Nombre":"De América del Norte", "Codigo":"2.31"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":89823.0}
+]
+}
+,{"COD":"ECP2501", "Nombre":"Total Nacional. Estados Unidos de América. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":10005, "T3_Variable":"Nacionalidad", "Nombre":"Estados Unidos de América", "Codigo":"302"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":48642.0}
+]
+}
+,{"COD":"ECP2441", "Nombre":"Total Nacional. México. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9960, "T3_Variable":"Nacionalidad", "Nombre":"México", "Codigo":"303"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":34635.0}
+]
+}
+,{"COD":"ECP2381", "Nombre":"Total Nacional. Canadá. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9961, "T3_Variable":"Nacionalidad", "Nombre":"Canadá", "Codigo":"301"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":6546.0}
+]
+}
+,{"COD":"ECP2321", "Nombre":"Total Nacional. Centro América y Caribe. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":292918, "T3_Variable":"Nacionalidad", "Nombre":"De Centro América y Caribe", "Codigo":"2.32"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":438105.0}
+]
+}
+,{"COD":"ECP2261", "Nombre":"Total Nacional. Cuba. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23346, "T3_Variable":"Nacionalidad", "Nombre":"Cuba", "Codigo":"315"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":78093.0}
+]
+}
+,{"COD":"ECP2201", "Nombre":"Total Nacional. Honduras. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23352, "T3_Variable":"Nacionalidad", "Nombre":"Honduras", "Codigo":"321"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":169417.0}
+]
+}
+,{"COD":"ECP2141", "Nombre":"Total Nacional. Nicaragua. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23354, "T3_Variable":"Nacionalidad", "Nombre":"Nicaragua", "Codigo":"323"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":71794.0}
+]
+}
+,{"COD":"ECP2081", "Nombre":"Total Nacional. República Dominicana. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23357, "T3_Variable":"Nacionalidad", "Nombre":"República Dominicana", "Codigo":"326"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":67082.0}
+]
+}
+,{"COD":"ECP2021", "Nombre":"Total Nacional. Otro país de Centro América y Caribe. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":292911, "T3_Variable":"Nacionalidad", "Nombre":"Otros países de Centro América y Caribe", "Codigo":"2.32.O"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":51719.0}
+]
+}
+,{"COD":"ECP1961", "Nombre":"Total Nacional. Sudamérica. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":16435, "T3_Variable":"Nacionalidad", "Nombre":"De Sudamérica", "Codigo":"2.33"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":1660488.0}
+]
+}
+,{"COD":"ECP1901", "Nombre":"Total Nacional. Argentina. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":10003, "T3_Variable":"Nacionalidad", "Nombre":"Argentina", "Codigo":"340"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":133343.0}
+]
+}
+,{"COD":"ECP1841", "Nombre":"Total Nacional. Bolivia. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23362, "T3_Variable":"Nacionalidad", "Nombre":"Bolivia", "Codigo":"341"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":72334.0}
+]
+}
+,{"COD":"ECP1781", "Nombre":"Total Nacional. Brasil. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":10004, "T3_Variable":"Nacionalidad", "Nombre":"Brasil", "Codigo":"342"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":101158.0}
+]
+}
+,{"COD":"ECP1721", "Nombre":"Total Nacional. Colombia. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23364, "T3_Variable":"Nacionalidad", "Nombre":"Colombia", "Codigo":"343"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":544615.0}
+]
+}
+,{"COD":"ECP1661", "Nombre":"Total Nacional. Chile. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23365, "T3_Variable":"Nacionalidad", "Nombre":"Chile", "Codigo":"344"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":33656.0}
+]
+}
+,{"COD":"ECP1601", "Nombre":"Total Nacional. Ecuador. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23366, "T3_Variable":"Nacionalidad", "Nombre":"Ecuador", "Codigo":"345"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":122324.0}
+]
+}
+,{"COD":"ECP1541", "Nombre":"Total Nacional. Paraguay. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23368, "T3_Variable":"Nacionalidad", "Nombre":"Paraguay", "Codigo":"347"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":107958.0}
+]
+}
+,{"COD":"ECP1481", "Nombre":"Total Nacional. Perú. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23369, "T3_Variable":"Nacionalidad", "Nombre":"Perú", "Codigo":"348"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":206626.0}
+]
+}
+,{"COD":"ECP1421", "Nombre":"Total Nacional. Uruguay. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23371, "T3_Variable":"Nacionalidad", "Nombre":"Uruguay", "Codigo":"350"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":28685.0}
+]
+}
+,{"COD":"ECP1361", "Nombre":"Total Nacional. Venezuela. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9962, "T3_Variable":"Nacionalidad", "Nombre":"Venezuela", "Codigo":"351"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":309730.0}
+]
+}
+,{"COD":"ECP1301", "Nombre":"Total Nacional. Otro país de Sudamérica. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":292916, "T3_Variable":"Nacionalidad", "Nombre":"Otro país de Sudamérica", "Codigo":"2.33.O"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":59.0}
+]
+}
+,{"COD":"ECP1241", "Nombre":"Total Nacional. Asia. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":9966, "T3_Variable":"Nacionalidad", "Nombre":"De Asia", "Codigo":"2.04"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":516755.0}
+]
+}
+,{"COD":"ECP1181", "Nombre":"Total Nacional. Bangladesh. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23376, "T3_Variable":"Nacionalidad", "Nombre":"Bangladesh", "Codigo":"404"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":20149.0}
+]
+}
+,{"COD":"ECP1121", "Nombre":"Total Nacional. China. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23378, "T3_Variable":"Nacionalidad", "Nombre":"China", "Codigo":"407"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":223840.0}
+]
+}
+,{"COD":"ECP1061", "Nombre":"Total Nacional. Filipinas. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23380, "T3_Variable":"Nacionalidad", "Nombre":"Filipinas", "Codigo":"409"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":39703.0}
+]
+}
+,{"COD":"ECP1001", "Nombre":"Total Nacional. India. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23381, "T3_Variable":"Nacionalidad", "Nombre":"India", "Codigo":"410"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":55729.0}
+]
+}
+,{"COD":"ECP941", "Nombre":"Total Nacional. Pakistán. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23397, "T3_Variable":"Nacionalidad", "Nombre":"Pakistán", "Codigo":"426"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":108343.0}
+]
+}
+,{"COD":"ECP881", "Nombre":"Total Nacional. Otro país de Asia. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":292914, "T3_Variable":"Nacionalidad", "Nombre":"Otro país de Asia", "Codigo":"2.04.O"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":68991.0}
+]
+}
+,{"COD":"ECP821", "Nombre":"Total Nacional. Oceanía. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":16438, "T3_Variable":"Nacionalidad", "Nombre":"De Oceanía", "Codigo":"2.05"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":4456.0}
+]
+}
+,{"COD":"ECP761", "Nombre":"Total Nacional. Apátridas. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":23440, "T3_Variable":"Nacionalidad", "Nombre":"Apátridas", "Codigo":"555"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":4288.0}
+]
+}
+,{"COD":"ECP701", "Nombre":"Total Nacional. Extranjera. Todas las edades. Total. Población. Número. ", "T3_Unidad":"Personas", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":274512, "T3_Variable":"Nacionalidad", "Nombre":"Extranjera", "Codigo":"2"}
+,{"Id":15668, "T3_Variable":"Totales de edad", "Nombre":"Todas las edades", "Codigo":""}
+,{"Id":451, "T3_Variable":"Sexo", "Nombre":"Total", "Codigo":""}
+,{"Id":17338, "T3_Variable":"Nacimiento Residencia", "Nombre":"Población", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Definitivo", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":6400849.0}
+]
+}
+]

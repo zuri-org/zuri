@@ -1,0 +1,3418 @@
+[
+    {
+        "TipoDelito":"Abandono de familia",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":223.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.005095078
+    },
+    {
+        "TipoDelito":"Abandono de familia",
+        "Procedencia":"Asia",
+        "Valor":13.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0025156989
+    },
+    {
+        "TipoDelito":"Abandono de familia",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":3441.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0081761125
+    },
+    {
+        "TipoDelito":"Abandono de familia",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":35.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0050239283
+    },
+    {
+        "TipoDelito":"Abandono de familia",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":1.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0224416517
+    },
+    {
+        "TipoDelito":"Abandono de familia",
+        "Procedencia":"Total",
+        "Valor":3953.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Abandono de familia",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":114.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0071451538
+    },
+    {
+        "TipoDelito":"Abandono de familia",
+        "Procedencia":"\u00c1frica",
+        "Valor":126.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0101141941
+    },
+    {
+        "TipoDelito":"Acusaci\u00f3n y denuncia falsas y simulaci\u00f3n de delitos",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":34.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.000776828
+    },
+    {
+        "TipoDelito":"Acusaci\u00f3n y denuncia falsas y simulaci\u00f3n de delitos",
+        "Procedencia":"Asia",
+        "Valor":0.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Acusaci\u00f3n y denuncia falsas y simulaci\u00f3n de delitos",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":462.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0010977518
+    },
+    {
+        "TipoDelito":"Acusaci\u00f3n y denuncia falsas y simulaci\u00f3n de delitos",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":4.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0005741632
+    },
+    {
+        "TipoDelito":"Acusaci\u00f3n y denuncia falsas y simulaci\u00f3n de delitos",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Acusaci\u00f3n y denuncia falsas y simulaci\u00f3n de delitos",
+        "Procedencia":"Total",
+        "Valor":543.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Acusaci\u00f3n y denuncia falsas y simulaci\u00f3n de delitos",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":17.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0010655054
+    },
+    {
+        "TipoDelito":"Acusaci\u00f3n y denuncia falsas y simulaci\u00f3n de delitos",
+        "Procedencia":"\u00c1frica",
+        "Valor":26.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0020870559
+    },
+    {
+        "TipoDelito":"Acusaci\u00f3n y denuncias falsas",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":16.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0003655661
+    },
+    {
+        "TipoDelito":"Acusaci\u00f3n y denuncias falsas",
+        "Procedencia":"Asia",
+        "Valor":0.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Acusaci\u00f3n y denuncias falsas",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":176.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0004181912
+    },
+    {
+        "TipoDelito":"Acusaci\u00f3n y denuncias falsas",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":1.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0001435408
+    },
+    {
+        "TipoDelito":"Acusaci\u00f3n y denuncias falsas",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Acusaci\u00f3n y denuncias falsas",
+        "Procedencia":"Total",
+        "Valor":213.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Acusaci\u00f3n y denuncias falsas",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":10.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0006267679
+    },
+    {
+        "TipoDelito":"Acusaci\u00f3n y denuncias falsas",
+        "Procedencia":"\u00c1frica",
+        "Valor":10.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0008027138
+    },
+    {
+        "TipoDelito":"Amenazas",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":1419.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0324211468
+    },
+    {
+        "TipoDelito":"Amenazas",
+        "Procedencia":"Asia",
+        "Valor":103.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0199320761
+    },
+    {
+        "TipoDelito":"Amenazas",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":19348.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.045972515
+    },
+    {
+        "TipoDelito":"Amenazas",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":237.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0340191713
+    },
+    {
+        "TipoDelito":"Amenazas",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":1.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0224416517
+    },
+    {
+        "TipoDelito":"Amenazas",
+        "Procedencia":"Total",
+        "Valor":23986.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Amenazas",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":1156.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0724543666
+    },
+    {
+        "TipoDelito":"Amenazas",
+        "Procedencia":"\u00c1frica",
+        "Valor":1722.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.1382273189
+    },
+    {
+        "TipoDelito":"Apropiaci\u00f3n indebida",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":375.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0085679563
+    },
+    {
+        "TipoDelito":"Apropiaci\u00f3n indebida",
+        "Procedencia":"Asia",
+        "Valor":55.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0106433416
+    },
+    {
+        "TipoDelito":"Apropiaci\u00f3n indebida",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":3019.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0071734041
+    },
+    {
+        "TipoDelito":"Apropiaci\u00f3n indebida",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":121.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0173684377
+    },
+    {
+        "TipoDelito":"Apropiaci\u00f3n indebida",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Apropiaci\u00f3n indebida",
+        "Procedencia":"Total",
+        "Valor":4468.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Apropiaci\u00f3n indebida",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":253.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0158572273
+    },
+    {
+        "TipoDelito":"Apropiaci\u00f3n indebida",
+        "Procedencia":"\u00c1frica",
+        "Valor":645.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0517750411
+    },
+    {
+        "TipoDelito":"Asesinato",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":26.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.000594045
+    },
+    {
+        "TipoDelito":"Asesinato",
+        "Procedencia":"Asia",
+        "Valor":2.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0003870306
+    },
+    {
+        "TipoDelito":"Asesinato",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":134.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0003183955
+    },
+    {
+        "TipoDelito":"Asesinato",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":8.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0011483265
+    },
+    {
+        "TipoDelito":"Asesinato",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Asesinato",
+        "Procedencia":"Total",
+        "Valor":211.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Asesinato",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":21.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0013162125
+    },
+    {
+        "TipoDelito":"Asesinato",
+        "Procedencia":"\u00c1frica",
+        "Valor":20.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0016054276
+    },
+    {
+        "TipoDelito":"Atentados contra la autoridad",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":788.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0180041323
+    },
+    {
+        "TipoDelito":"Atentados contra la autoridad",
+        "Procedencia":"Asia",
+        "Valor":30.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0058054591
+    },
+    {
+        "TipoDelito":"Atentados contra la autoridad",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":4861.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0115501548
+    },
+    {
+        "TipoDelito":"Atentados contra la autoridad",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":224.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0321531408
+    },
+    {
+        "TipoDelito":"Atentados contra la autoridad",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":2.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0448833034
+    },
+    {
+        "TipoDelito":"Atentados contra la autoridad",
+        "Procedencia":"Total",
+        "Valor":7218.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Atentados contra la autoridad",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":404.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0253214222
+    },
+    {
+        "TipoDelito":"Atentados contra la autoridad",
+        "Procedencia":"\u00c1frica",
+        "Valor":909.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0729666858
+    },
+    {
+        "TipoDelito":"Atentados contra la autoridad y de la resistencia y desobediencia",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":1603.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0366251574
+    },
+    {
+        "TipoDelito":"Atentados contra la autoridad y de la resistencia y desobediencia",
+        "Procedencia":"Asia",
+        "Valor":71.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0137395865
+    },
+    {
+        "TipoDelito":"Atentados contra la autoridad y de la resistencia y desobediencia",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":10233.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0243144896
+    },
+    {
+        "TipoDelito":"Atentados contra la autoridad y de la resistencia y desobediencia",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":490.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0703349955
+    },
+    {
+        "TipoDelito":"Atentados contra la autoridad y de la resistencia y desobediencia",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":7.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.1570915619
+    },
+    {
+        "TipoDelito":"Atentados contra la autoridad y de la resistencia y desobediencia",
+        "Procedencia":"Total",
+        "Valor":15604.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Atentados contra la autoridad y de la resistencia y desobediencia",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":942.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.059041534
+    },
+    {
+        "TipoDelito":"Atentados contra la autoridad y de la resistencia y desobediencia",
+        "Procedencia":"\u00c1frica",
+        "Valor":2258.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.1812527794
+    },
+    {
+        "TipoDelito":"Coacciones y detenciones ilegales",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":494.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0112868545
+    },
+    {
+        "TipoDelito":"Coacciones y detenciones ilegales",
+        "Procedencia":"Asia",
+        "Valor":52.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0100627957
+    },
+    {
+        "TipoDelito":"Coacciones y detenciones ilegales",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":5226.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0124174263
+    },
+    {
+        "TipoDelito":"Coacciones y detenciones ilegales",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":79.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0113397238
+    },
+    {
+        "TipoDelito":"Coacciones y detenciones ilegales",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Coacciones y detenciones ilegales",
+        "Procedencia":"Total",
+        "Valor":6557.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Coacciones y detenciones ilegales",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":334.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0209340471
+    },
+    {
+        "TipoDelito":"Coacciones y detenciones ilegales",
+        "Procedencia":"\u00c1frica",
+        "Valor":372.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0298609539
+    },
+    {
+        "TipoDelito":"Contra el orden p\u00fablico",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":1808.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0413089735
+    },
+    {
+        "TipoDelito":"Contra el orden p\u00fablico",
+        "Procedencia":"Asia",
+        "Valor":142.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0274791729
+    },
+    {
+        "TipoDelito":"Contra el orden p\u00fablico",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":11736.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0278857471
+    },
+    {
+        "TipoDelito":"Contra el orden p\u00fablico",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":645.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0925838207
+    },
+    {
+        "TipoDelito":"Contra el orden p\u00fablico",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":7.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.1570915619
+    },
+    {
+        "TipoDelito":"Contra el orden p\u00fablico",
+        "Procedencia":"Total",
+        "Valor":17850.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Contra el orden p\u00fablico",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":1088.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.068192345
+    },
+    {
+        "TipoDelito":"Contra el orden p\u00fablico",
+        "Procedencia":"\u00c1frica",
+        "Valor":2424.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.1945778287
+    },
+    {
+        "TipoDelito":"Contra el patrimonio y el orden socioecon\u00f3mico",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":9290.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.2122568385
+    },
+    {
+        "TipoDelito":"Contra el patrimonio y el orden socioecon\u00f3mico",
+        "Procedencia":"Asia",
+        "Valor":871.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.1685518282
+    },
+    {
+        "TipoDelito":"Contra el patrimonio y el orden socioecon\u00f3mico",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":84863.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.2016417995
+    },
+    {
+        "TipoDelito":"Contra el patrimonio y el orden socioecon\u00f3mico",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":2874.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.4125362799
+    },
+    {
+        "TipoDelito":"Contra el patrimonio y el orden socioecon\u00f3mico",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":3.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0673249551
+    },
+    {
+        "TipoDelito":"Contra el patrimonio y el orden socioecon\u00f3mico",
+        "Procedencia":"Total",
+        "Valor":121593.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Contra el patrimonio y el orden socioecon\u00f3mico",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":7496.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.4698252007
+    },
+    {
+        "TipoDelito":"Contra el patrimonio y el orden socioecon\u00f3mico",
+        "Procedencia":"\u00c1frica",
+        "Valor":16196.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":1.3000752946
+    },
+    {
+        "TipoDelito":"Contra la Administraci\u00f3n P\u00fablica",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":10.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0002284788
+    },
+    {
+        "TipoDelito":"Contra la Administraci\u00f3n P\u00fablica",
+        "Procedencia":"Asia",
+        "Valor":9.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0017416377
+    },
+    {
+        "TipoDelito":"Contra la Administraci\u00f3n P\u00fablica",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":444.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0010549823
+    },
+    {
+        "TipoDelito":"Contra la Administraci\u00f3n P\u00fablica",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":6.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0008612448
+    },
+    {
+        "TipoDelito":"Contra la Administraci\u00f3n P\u00fablica",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Contra la Administraci\u00f3n P\u00fablica",
+        "Procedencia":"Total",
+        "Valor":518.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Contra la Administraci\u00f3n P\u00fablica",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":23.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0014415661
+    },
+    {
+        "TipoDelito":"Contra la Administraci\u00f3n P\u00fablica",
+        "Procedencia":"\u00c1frica",
+        "Valor":26.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0020870559
+    },
+    {
+        "TipoDelito":"Contra la Administraci\u00f3n de Justicia",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":2082.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0475692936
+    },
+    {
+        "TipoDelito":"Contra la Administraci\u00f3n de Justicia",
+        "Procedencia":"Asia",
+        "Valor":153.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0296078412
+    },
+    {
+        "TipoDelito":"Contra la Administraci\u00f3n de Justicia",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":16862.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0400655648
+    },
+    {
+        "TipoDelito":"Contra la Administraci\u00f3n de Justicia",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":255.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0366029058
+    },
+    {
+        "TipoDelito":"Contra la Administraci\u00f3n de Justicia",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":1.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0224416517
+    },
+    {
+        "TipoDelito":"Contra la Administraci\u00f3n de Justicia",
+        "Procedencia":"Total",
+        "Valor":22248.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Contra la Administraci\u00f3n de Justicia",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":1201.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.075274822
+    },
+    {
+        "TipoDelito":"Contra la Administraci\u00f3n de Justicia",
+        "Procedencia":"\u00c1frica",
+        "Valor":1694.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.1359797202
+    },
+    {
+        "TipoDelito":"Contra la libertad",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":1913.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0437080013
+    },
+    {
+        "TipoDelito":"Contra la libertad",
+        "Procedencia":"Asia",
+        "Valor":155.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0299948718
+    },
+    {
+        "TipoDelito":"Contra la libertad",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":24574.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0583899412
+    },
+    {
+        "TipoDelito":"Contra la libertad",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":316.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0453588951
+    },
+    {
+        "TipoDelito":"Contra la libertad",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":1.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0224416517
+    },
+    {
+        "TipoDelito":"Contra la libertad",
+        "Procedencia":"Total",
+        "Valor":30543.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Contra la libertad",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":1490.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0933884137
+    },
+    {
+        "TipoDelito":"Contra la libertad",
+        "Procedencia":"\u00c1frica",
+        "Valor":2094.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.1680882728
+    },
+    {
+        "TipoDelito":"Contra la libertad e indemnidad sexuales",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":386.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0088192831
+    },
+    {
+        "TipoDelito":"Contra la libertad e indemnidad sexuales",
+        "Procedencia":"Asia",
+        "Valor":60.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0116109181
+    },
+    {
+        "TipoDelito":"Contra la libertad e indemnidad sexuales",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":2369.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0056289481
+    },
+    {
+        "TipoDelito":"Contra la libertad e indemnidad sexuales",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":60.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0086124484
+    },
+    {
+        "TipoDelito":"Contra la libertad e indemnidad sexuales",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":1.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0224416517
+    },
+    {
+        "TipoDelito":"Contra la libertad e indemnidad sexuales",
+        "Procedencia":"Total",
+        "Valor":3423.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Contra la libertad e indemnidad sexuales",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":192.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0120339432
+    },
+    {
+        "TipoDelito":"Contra la libertad e indemnidad sexuales",
+        "Procedencia":"\u00c1frica",
+        "Valor":355.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0284963404
+    },
+    {
+        "TipoDelito":"Contra la salud p\u00fablica",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":1151.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.026297914
+    },
+    {
+        "TipoDelito":"Contra la salud p\u00fablica",
+        "Procedencia":"Asia",
+        "Valor":178.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0344457238
+    },
+    {
+        "TipoDelito":"Contra la salud p\u00fablica",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":8042.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0191084849
+    },
+    {
+        "TipoDelito":"Contra la salud p\u00fablica",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":390.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0559809148
+    },
+    {
+        "TipoDelito":"Contra la salud p\u00fablica",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Contra la salud p\u00fablica",
+        "Procedencia":"Total",
+        "Valor":11941.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Contra la salud p\u00fablica",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":700.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0438737514
+    },
+    {
+        "TipoDelito":"Contra la salud p\u00fablica",
+        "Procedencia":"\u00c1frica",
+        "Valor":1480.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.1188016446
+    },
+    {
+        "TipoDelito":"Contra la seguridad colectiva",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":13883.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.3171971679
+    },
+    {
+        "TipoDelito":"Contra la seguridad colectiva",
+        "Procedencia":"Asia",
+        "Valor":794.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.15365115
+    },
+    {
+        "TipoDelito":"Contra la seguridad colectiva",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":82007.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.1948556974
+    },
+    {
+        "TipoDelito":"Contra la seguridad colectiva",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":2186.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.3137802046
+    },
+    {
+        "TipoDelito":"Contra la seguridad colectiva",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":8.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.1795332136
+    },
+    {
+        "TipoDelito":"Contra la seguridad colectiva",
+        "Procedencia":"Total",
+        "Valor":111299.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Contra la seguridad colectiva",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":6766.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.4240711457
+    },
+    {
+        "TipoDelito":"Contra la seguridad colectiva",
+        "Procedencia":"\u00c1frica",
+        "Valor":5655.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.4539346623
+    },
+    {
+        "TipoDelito":"Contra la seguridad vial",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":12727.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.2907850144
+    },
+    {
+        "TipoDelito":"Contra la seguridad vial",
+        "Procedencia":"Asia",
+        "Valor":615.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.1190119109
+    },
+    {
+        "TipoDelito":"Contra la seguridad vial",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":73809.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.1753765431
+    },
+    {
+        "TipoDelito":"Contra la seguridad vial",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":1794.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.2575122081
+    },
+    {
+        "TipoDelito":"Contra la seguridad vial",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":8.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.1795332136
+    },
+    {
+        "TipoDelito":"Contra la seguridad vial",
+        "Procedencia":"Total",
+        "Valor":99181.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Contra la seguridad vial",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":6059.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.3797586568
+    },
+    {
+        "TipoDelito":"Contra la seguridad vial",
+        "Procedencia":"\u00c1frica",
+        "Valor":4169.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.3346513894
+    },
+    {
+        "TipoDelito":"Contra las relaciones familiares",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":230.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0052550132
+    },
+    {
+        "TipoDelito":"Contra las relaciones familiares",
+        "Procedencia":"Asia",
+        "Valor":15.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0029027295
+    },
+    {
+        "TipoDelito":"Contra las relaciones familiares",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":3475.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0082568994
+    },
+    {
+        "TipoDelito":"Contra las relaciones familiares",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":36.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0051674691
+    },
+    {
+        "TipoDelito":"Contra las relaciones familiares",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":2.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0448833034
+    },
+    {
+        "TipoDelito":"Contra las relaciones familiares",
+        "Procedencia":"Total",
+        "Valor":4013.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Contra las relaciones familiares",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":126.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0078972753
+    },
+    {
+        "TipoDelito":"Contra las relaciones familiares",
+        "Procedencia":"\u00c1frica",
+        "Valor":129.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0103550082
+    },
+    {
+        "TipoDelito":"Contra los derechos y deberes familiares",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":229.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0052321653
+    },
+    {
+        "TipoDelito":"Contra los derechos y deberes familiares",
+        "Procedencia":"Asia",
+        "Valor":15.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0029027295
+    },
+    {
+        "TipoDelito":"Contra los derechos y deberes familiares",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":3468.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0082402668
+    },
+    {
+        "TipoDelito":"Contra los derechos y deberes familiares",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":36.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0051674691
+    },
+    {
+        "TipoDelito":"Contra los derechos y deberes familiares",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":1.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0224416517
+    },
+    {
+        "TipoDelito":"Contra los derechos y deberes familiares",
+        "Procedencia":"Total",
+        "Valor":4000.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Contra los derechos y deberes familiares",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":122.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0076465681
+    },
+    {
+        "TipoDelito":"Contra los derechos y deberes familiares",
+        "Procedencia":"\u00c1frica",
+        "Valor":129.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0103550082
+    },
+    {
+        "TipoDelito":"Da\u00f1os",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":589.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0134574034
+    },
+    {
+        "TipoDelito":"Da\u00f1os",
+        "Procedencia":"Asia",
+        "Valor":53.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.010256311
+    },
+    {
+        "TipoDelito":"Da\u00f1os",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":7242.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0172076159
+    },
+    {
+        "TipoDelito":"Da\u00f1os",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":169.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0242583964
+    },
+    {
+        "TipoDelito":"Da\u00f1os",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":1.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0224416517
+    },
+    {
+        "TipoDelito":"Da\u00f1os",
+        "Procedencia":"Total",
+        "Valor":9338.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Da\u00f1os",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":472.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0295834438
+    },
+    {
+        "TipoDelito":"Da\u00f1os",
+        "Procedencia":"\u00c1frica",
+        "Valor":812.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0651803618
+    },
+    {
+        "TipoDelito":"Defraudaciones",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":1343.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0306847077
+    },
+    {
+        "TipoDelito":"Defraudaciones",
+        "Procedencia":"Asia",
+        "Valor":125.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0241894128
+    },
+    {
+        "TipoDelito":"Defraudaciones",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":18269.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.043408718
+    },
+    {
+        "TipoDelito":"Defraudaciones",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":351.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0503828233
+    },
+    {
+        "TipoDelito":"Defraudaciones",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Defraudaciones",
+        "Procedencia":"Total",
+        "Valor":22488.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Defraudaciones",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":977.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0612352216
+    },
+    {
+        "TipoDelito":"Defraudaciones",
+        "Procedencia":"\u00c1frica",
+        "Valor":1423.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.1142261759
+    },
+    {
+        "TipoDelito":"Defraudaciones de fluido el\u00e9ctrico",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":58.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0013251772
+    },
+    {
+        "TipoDelito":"Defraudaciones de fluido el\u00e9ctrico",
+        "Procedencia":"Asia",
+        "Valor":14.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0027092142
+    },
+    {
+        "TipoDelito":"Defraudaciones de fluido el\u00e9ctrico",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":1928.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0045810941
+    },
+    {
+        "TipoDelito":"Defraudaciones de fluido el\u00e9ctrico",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":125.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0179426009
+    },
+    {
+        "TipoDelito":"Defraudaciones de fluido el\u00e9ctrico",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Defraudaciones de fluido el\u00e9ctrico",
+        "Procedencia":"Total",
+        "Valor":2293.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Defraudaciones de fluido el\u00e9ctrico",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":90.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0056409109
+    },
+    {
+        "TipoDelito":"Defraudaciones de fluido el\u00e9ctrico",
+        "Procedencia":"\u00c1frica",
+        "Valor":78.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0062611678
+    },
+    {
+        "TipoDelito":"Delitos",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":39244.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.8966423436
+    },
+    {
+        "TipoDelito":"Delitos",
+        "Procedencia":"Asia",
+        "Valor":3201.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.6194424824
+    },
+    {
+        "TipoDelito":"Delitos",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":291480.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.6925815929
+    },
+    {
+        "TipoDelito":"Delitos",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":8342.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":1.1974174138
+    },
+    {
+        "TipoDelito":"Delitos",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":27.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.6059245961
+    },
+    {
+        "TipoDelito":"Delitos",
+        "Procedencia":"Total",
+        "Valor":403194.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Delitos",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":23584.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":1.4781693615
+    },
+    {
+        "TipoDelito":"Delitos",
+        "Procedencia":"\u00c1frica",
+        "Valor":37316.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":2.9954068716
+    },
+    {
+        "TipoDelito":"Desobediencia y denegaci\u00f3n auxilio",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":9.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.000205631
+    },
+    {
+        "TipoDelito":"Desobediencia y denegaci\u00f3n auxilio",
+        "Procedencia":"Asia",
+        "Valor":3.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0005805459
+    },
+    {
+        "TipoDelito":"Desobediencia y denegaci\u00f3n auxilio",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":167.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0003968064
+    },
+    {
+        "TipoDelito":"Desobediencia y denegaci\u00f3n auxilio",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":6.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0008612448
+    },
+    {
+        "TipoDelito":"Desobediencia y denegaci\u00f3n auxilio",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Desobediencia y denegaci\u00f3n auxilio",
+        "Procedencia":"Total",
+        "Valor":222.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Desobediencia y denegaci\u00f3n auxilio",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":19.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.001190859
+    },
+    {
+        "TipoDelito":"Desobediencia y denegaci\u00f3n auxilio",
+        "Procedencia":"\u00c1frica",
+        "Valor":18.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0014448849
+    },
+    {
+        "TipoDelito":"Estafas",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":910.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0207915741
+    },
+    {
+        "TipoDelito":"Estafas",
+        "Procedencia":"Asia",
+        "Valor":56.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0108368569
+    },
+    {
+        "TipoDelito":"Estafas",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":13322.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0316542198
+    },
+    {
+        "TipoDelito":"Estafas",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":105.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0150717848
+    },
+    {
+        "TipoDelito":"Estafas",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Estafas",
+        "Procedencia":"Total",
+        "Valor":15727.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Estafas",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":634.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0397370834
+    },
+    {
+        "TipoDelito":"Estafas",
+        "Procedencia":"\u00c1frica",
+        "Valor":700.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.056189967
+    },
+    {
+        "TipoDelito":"Falsedades",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":590.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0134802513
+    },
+    {
+        "TipoDelito":"Falsedades",
+        "Procedencia":"Asia",
+        "Valor":273.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0528296775
+    },
+    {
+        "TipoDelito":"Falsedades",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":3424.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.008135719
+    },
+    {
+        "TipoDelito":"Falsedades",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":357.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0512440682
+    },
+    {
+        "TipoDelito":"Falsedades",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Falsedades",
+        "Procedencia":"Total",
+        "Valor":6040.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Falsedades",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":558.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0349736475
+    },
+    {
+        "TipoDelito":"Falsedades",
+        "Procedencia":"\u00c1frica",
+        "Valor":838.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0672674177
+    },
+    {
+        "TipoDelito":"Falsedades documentales",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":567.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.01295475
+    },
+    {
+        "TipoDelito":"Falsedades documentales",
+        "Procedencia":"Asia",
+        "Valor":272.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0526361622
+    },
+    {
+        "TipoDelito":"Falsedades documentales",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":3201.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0076058518
+    },
+    {
+        "TipoDelito":"Falsedades documentales",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":351.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0503828233
+    },
+    {
+        "TipoDelito":"Falsedades documentales",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Falsedades documentales",
+        "Procedencia":"Total",
+        "Valor":5721.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Falsedades documentales",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":540.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0338454654
+    },
+    {
+        "TipoDelito":"Falsedades documentales",
+        "Procedencia":"\u00c1frica",
+        "Valor":790.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0634143914
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n de certificados",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":16.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0003655661
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n de certificados",
+        "Procedencia":"Asia",
+        "Valor":5.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0009675765
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n de certificados",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":174.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.000413439
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n de certificados",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":1.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0001435408
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n de certificados",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n de certificados",
+        "Procedencia":"Total",
+        "Valor":216.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n de certificados",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":8.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0005014143
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n de certificados",
+        "Procedencia":"\u00c1frica",
+        "Valor":12.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0009632566
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n de tarjetas de cr\u00e9dito",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":0.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n de tarjetas de cr\u00e9dito",
+        "Procedencia":"Asia",
+        "Valor":0.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n de tarjetas de cr\u00e9dito",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":12.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.000028513
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n de tarjetas de cr\u00e9dito",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":0.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n de tarjetas de cr\u00e9dito",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n de tarjetas de cr\u00e9dito",
+        "Procedencia":"Total",
+        "Valor":24.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n de tarjetas de cr\u00e9dito",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":8.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0005014143
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n de tarjetas de cr\u00e9dito",
+        "Procedencia":"\u00c1frica",
+        "Valor":4.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0003210855
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n documentos privados",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":12.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0002741746
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n documentos privados",
+        "Procedencia":"Asia",
+        "Valor":0.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n documentos privados",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":222.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0005274911
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n documentos privados",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":3.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0004306224
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n documentos privados",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n documentos privados",
+        "Procedencia":"Total",
+        "Valor":260.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n documentos privados",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":14.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.000877475
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n documentos privados",
+        "Procedencia":"\u00c1frica",
+        "Valor":9.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0007224424
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n documentos p\u00fablicos",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":539.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0123150093
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n documentos p\u00fablicos",
+        "Procedencia":"Asia",
+        "Valor":267.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0516685857
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n documentos p\u00fablicos",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":2793.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0066364086
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n documentos p\u00fablicos",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":347.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0498086601
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n documentos p\u00fablicos",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n documentos p\u00fablicos",
+        "Procedencia":"Total",
+        "Valor":5221.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n documentos p\u00fablicos",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":510.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0319651617
+    },
+    {
+        "TipoDelito":"Falsificaci\u00f3n documentos p\u00fablicos",
+        "Procedencia":"\u00c1frica",
+        "Valor":765.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0614076068
+    },
+    {
+        "TipoDelito":"Homicidio",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":45.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0010281548
+    },
+    {
+        "TipoDelito":"Homicidio",
+        "Procedencia":"Asia",
+        "Valor":6.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0011610918
+    },
+    {
+        "TipoDelito":"Homicidio",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":192.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0004562085
+    },
+    {
+        "TipoDelito":"Homicidio",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":7.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0010047857
+    },
+    {
+        "TipoDelito":"Homicidio",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Homicidio",
+        "Procedencia":"Total",
+        "Valor":313.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Homicidio",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":23.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0014415661
+    },
+    {
+        "TipoDelito":"Homicidio",
+        "Procedencia":"\u00c1frica",
+        "Valor":40.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0032108553
+    },
+    {
+        "TipoDelito":"Homicidio por imprudencia",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":11.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0002513267
+    },
+    {
+        "TipoDelito":"Homicidio por imprudencia",
+        "Procedencia":"Asia",
+        "Valor":1.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0001935153
+    },
+    {
+        "TipoDelito":"Homicidio por imprudencia",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":411.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0009765714
+    },
+    {
+        "TipoDelito":"Homicidio por imprudencia",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":3.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0004306224
+    },
+    {
+        "TipoDelito":"Homicidio por imprudencia",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Homicidio por imprudencia",
+        "Procedencia":"Total",
+        "Valor":520.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Homicidio por imprudencia",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":21.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0013162125
+    },
+    {
+        "TipoDelito":"Homicidio por imprudencia",
+        "Procedencia":"\u00c1frica",
+        "Valor":73.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0058598108
+    },
+    {
+        "TipoDelito":"Homicidio y sus formas",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":82.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0018735265
+    },
+    {
+        "TipoDelito":"Homicidio y sus formas",
+        "Procedencia":"Asia",
+        "Valor":9.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0017416377
+    },
+    {
+        "TipoDelito":"Homicidio y sus formas",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":739.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0017559277
+    },
+    {
+        "TipoDelito":"Homicidio y sus formas",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":18.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0025837345
+    },
+    {
+        "TipoDelito":"Homicidio y sus formas",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Homicidio y sus formas",
+        "Procedencia":"Total",
+        "Valor":1046.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Homicidio y sus formas",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":65.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0040739912
+    },
+    {
+        "TipoDelito":"Homicidio y sus formas",
+        "Procedencia":"\u00c1frica",
+        "Valor":133.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0106760937
+    },
+    {
+        "TipoDelito":"Hurtos",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":5783.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.1321293108
+    },
+    {
+        "TipoDelito":"Hurtos",
+        "Procedencia":"Asia",
+        "Valor":425.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0822440034
+    },
+    {
+        "TipoDelito":"Hurtos",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":39667.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0942522096
+    },
+    {
+        "TipoDelito":"Hurtos",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":1863.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.2674165238
+    },
+    {
+        "TipoDelito":"Hurtos",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":1.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0224416517
+    },
+    {
+        "TipoDelito":"Hurtos",
+        "Procedencia":"Total",
+        "Valor":60348.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Hurtos",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":4543.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.2847406466
+    },
+    {
+        "TipoDelito":"Hurtos",
+        "Procedencia":"\u00c1frica",
+        "Valor":8066.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.6474689631
+    },
+    {
+        "TipoDelito":"Inducci\u00f3n al suicidio",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":0.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Inducci\u00f3n al suicidio",
+        "Procedencia":"Asia",
+        "Valor":0.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Inducci\u00f3n al suicidio",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":2.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0000047522
+    },
+    {
+        "TipoDelito":"Inducci\u00f3n al suicidio",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":0.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Inducci\u00f3n al suicidio",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Inducci\u00f3n al suicidio",
+        "Procedencia":"Total",
+        "Valor":2.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Inducci\u00f3n al suicidio",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":0.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Inducci\u00f3n al suicidio",
+        "Procedencia":"\u00c1frica",
+        "Valor":0.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Lesiones",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":7930.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.1811837169
+    },
+    {
+        "TipoDelito":"Lesiones",
+        "Procedencia":"Asia",
+        "Valor":586.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.1133999671
+    },
+    {
+        "TipoDelito":"Lesiones",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":49382.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.1173358866
+    },
+    {
+        "TipoDelito":"Lesiones",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":1399.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.2008135893
+    },
+    {
+        "TipoDelito":"Lesiones",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":4.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0897666068
+    },
+    {
+        "TipoDelito":"Lesiones",
+        "Procedencia":"Total",
+        "Valor":69946.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Lesiones",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":3874.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.2428098756
+    },
+    {
+        "TipoDelito":"Lesiones",
+        "Procedencia":"\u00c1frica",
+        "Valor":6771.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.543517524
+    },
+    {
+        "TipoDelito":"Otros",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":0.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Otros",
+        "Procedencia":"Asia",
+        "Valor":0.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Otros",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":9.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0000213848
+    },
+    {
+        "TipoDelito":"Otros",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":0.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Otros",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Otros",
+        "Procedencia":"Total",
+        "Valor":10.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Otros",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":0.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Otros",
+        "Procedencia":"\u00c1frica",
+        "Valor":1.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0000802714
+    },
+    {
+        "TipoDelito":"Otros delitos contra el orden p\u00fablico",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":205.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0046838161
+    },
+    {
+        "TipoDelito":"Otros delitos contra el orden p\u00fablico",
+        "Procedencia":"Asia",
+        "Valor":71.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0137395865
+    },
+    {
+        "TipoDelito":"Otros delitos contra el orden p\u00fablico",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":1503.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0035712575
+    },
+    {
+        "TipoDelito":"Otros delitos contra el orden p\u00fablico",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":155.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0222488251
+    },
+    {
+        "TipoDelito":"Otros delitos contra el orden p\u00fablico",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Otros delitos contra el orden p\u00fablico",
+        "Procedencia":"Total",
+        "Valor":2246.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Otros delitos contra el orden p\u00fablico",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":146.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.009150811
+    },
+    {
+        "TipoDelito":"Otros delitos contra el orden p\u00fablico",
+        "Procedencia":"\u00c1frica",
+        "Valor":166.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0133250493
+    },
+    {
+        "TipoDelito":"Otros delitos contra el patrimonio y orden socioecon\u00f3mico",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":29.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0006625886
+    },
+    {
+        "TipoDelito":"Otros delitos contra el patrimonio y orden socioecon\u00f3mico",
+        "Procedencia":"Asia",
+        "Valor":163.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0315429943
+    },
+    {
+        "TipoDelito":"Otros delitos contra el patrimonio y orden socioecon\u00f3mico",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":1008.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0023950948
+    },
+    {
+        "TipoDelito":"Otros delitos contra el patrimonio y orden socioecon\u00f3mico",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":10.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0014354081
+    },
+    {
+        "TipoDelito":"Otros delitos contra el patrimonio y orden socioecon\u00f3mico",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Otros delitos contra el patrimonio y orden socioecon\u00f3mico",
+        "Procedencia":"Total",
+        "Valor":1531.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Otros delitos contra el patrimonio y orden socioecon\u00f3mico",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":34.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0021310108
+    },
+    {
+        "TipoDelito":"Otros delitos contra el patrimonio y orden socioecon\u00f3mico",
+        "Procedencia":"\u00c1frica",
+        "Valor":287.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0230378865
+    },
+    {
+        "TipoDelito":"Otros delitos contra la Administraci\u00f3n P\u00fablica",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":1.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0000228479
+    },
+    {
+        "TipoDelito":"Otros delitos contra la Administraci\u00f3n P\u00fablica",
+        "Procedencia":"Asia",
+        "Valor":6.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0011610918
+    },
+    {
+        "TipoDelito":"Otros delitos contra la Administraci\u00f3n P\u00fablica",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":277.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0006581759
+    },
+    {
+        "TipoDelito":"Otros delitos contra la Administraci\u00f3n P\u00fablica",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":0.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Otros delitos contra la Administraci\u00f3n P\u00fablica",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Otros delitos contra la Administraci\u00f3n P\u00fablica",
+        "Procedencia":"Total",
+        "Valor":296.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Otros delitos contra la Administraci\u00f3n P\u00fablica",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":4.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0002507072
+    },
+    {
+        "TipoDelito":"Otros delitos contra la Administraci\u00f3n P\u00fablica",
+        "Procedencia":"\u00c1frica",
+        "Valor":8.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0006421711
+    },
+    {
+        "TipoDelito":"Otros delitos contra la Administraci\u00f3n de Justicia",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":20.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0004569577
+    },
+    {
+        "TipoDelito":"Otros delitos contra la Administraci\u00f3n de Justicia",
+        "Procedencia":"Asia",
+        "Valor":4.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0007740612
+    },
+    {
+        "TipoDelito":"Otros delitos contra la Administraci\u00f3n de Justicia",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":591.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0014042669
+    },
+    {
+        "TipoDelito":"Otros delitos contra la Administraci\u00f3n de Justicia",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":5.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.000717704
+    },
+    {
+        "TipoDelito":"Otros delitos contra la Administraci\u00f3n de Justicia",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Otros delitos contra la Administraci\u00f3n de Justicia",
+        "Procedencia":"Total",
+        "Valor":681.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Otros delitos contra la Administraci\u00f3n de Justicia",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":27.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0016922733
+    },
+    {
+        "TipoDelito":"Otros delitos contra la Administraci\u00f3n de Justicia",
+        "Procedencia":"\u00c1frica",
+        "Valor":34.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.002729227
+    },
+    {
+        "TipoDelito":"Otros delitos contra la seguridad colectiva",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":5.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0001142394
+    },
+    {
+        "TipoDelito":"Otros delitos contra la seguridad colectiva",
+        "Procedencia":"Asia",
+        "Valor":1.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0001935153
+    },
+    {
+        "TipoDelito":"Otros delitos contra la seguridad colectiva",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":156.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0003706694
+    },
+    {
+        "TipoDelito":"Otros delitos contra la seguridad colectiva",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":2.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0002870816
+    },
+    {
+        "TipoDelito":"Otros delitos contra la seguridad colectiva",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Otros delitos contra la seguridad colectiva",
+        "Procedencia":"Total",
+        "Valor":177.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Otros delitos contra la seguridad colectiva",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":7.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0004387375
+    },
+    {
+        "TipoDelito":"Otros delitos contra la seguridad colectiva",
+        "Procedencia":"\u00c1frica",
+        "Valor":6.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0004816283
+    },
+    {
+        "TipoDelito":"Otros delitos contra las relaciones familiares",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":1.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0000228479
+    },
+    {
+        "TipoDelito":"Otros delitos contra las relaciones familiares",
+        "Procedencia":"Asia",
+        "Valor":0.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Otros delitos contra las relaciones familiares",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":7.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0000166326
+    },
+    {
+        "TipoDelito":"Otros delitos contra las relaciones familiares",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":0.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Otros delitos contra las relaciones familiares",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":1.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0224416517
+    },
+    {
+        "TipoDelito":"Otros delitos contra las relaciones familiares",
+        "Procedencia":"Total",
+        "Valor":13.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Otros delitos contra las relaciones familiares",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":4.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0002507072
+    },
+    {
+        "TipoDelito":"Otros delitos contra las relaciones familiares",
+        "Procedencia":"\u00c1frica",
+        "Valor":0.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Otros delitos de las falsedades",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":23.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0005255013
+    },
+    {
+        "TipoDelito":"Otros delitos de las falsedades",
+        "Procedencia":"Asia",
+        "Valor":1.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0001935153
+    },
+    {
+        "TipoDelito":"Otros delitos de las falsedades",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":223.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0005298672
+    },
+    {
+        "TipoDelito":"Otros delitos de las falsedades",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":6.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0008612448
+    },
+    {
+        "TipoDelito":"Otros delitos de las falsedades",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Otros delitos de las falsedades",
+        "Procedencia":"Total",
+        "Valor":319.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Otros delitos de las falsedades",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":18.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0011281822
+    },
+    {
+        "TipoDelito":"Otros delitos de las falsedades",
+        "Procedencia":"\u00c1frica",
+        "Valor":48.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0038530263
+    },
+    {
+        "TipoDelito":"Quebrantamiento de condena",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":2028.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0463355079
+    },
+    {
+        "TipoDelito":"Quebrantamiento de condena",
+        "Procedencia":"Asia",
+        "Valor":149.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.02883378
+    },
+    {
+        "TipoDelito":"Quebrantamiento de condena",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":15809.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.037563546
+    },
+    {
+        "TipoDelito":"Quebrantamiento de condena",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":246.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0353110386
+    },
+    {
+        "TipoDelito":"Quebrantamiento de condena",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":1.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0224416517
+    },
+    {
+        "TipoDelito":"Quebrantamiento de condena",
+        "Procedencia":"Total",
+        "Valor":21024.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Quebrantamiento de condena",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":1157.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0725170434
+    },
+    {
+        "TipoDelito":"Quebrantamiento de condena",
+        "Procedencia":"\u00c1frica",
+        "Valor":1634.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.1311634373
+    },
+    {
+        "TipoDelito":"Quebrantamiento de los deberes de custodia",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":0.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Quebrantamiento de los deberes de custodia",
+        "Procedencia":"Asia",
+        "Valor":0.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Quebrantamiento de los deberes de custodia",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":8.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0000190087
+    },
+    {
+        "TipoDelito":"Quebrantamiento de los deberes de custodia",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":0.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Quebrantamiento de los deberes de custodia",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Quebrantamiento de los deberes de custodia",
+        "Procedencia":"Total",
+        "Valor":11.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Quebrantamiento de los deberes de custodia",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":3.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0001880304
+    },
+    {
+        "TipoDelito":"Quebrantamiento de los deberes de custodia",
+        "Procedencia":"\u00c1frica",
+        "Valor":0.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Receptaci\u00f3n y blanqueo de capitales",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":131.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0029930728
+    },
+    {
+        "TipoDelito":"Receptaci\u00f3n y blanqueo de capitales",
+        "Procedencia":"Asia",
+        "Valor":32.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0061924897
+    },
+    {
+        "TipoDelito":"Receptaci\u00f3n y blanqueo de capitales",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":1533.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0036425401
+    },
+    {
+        "TipoDelito":"Receptaci\u00f3n y blanqueo de capitales",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":38.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0054545507
+    },
+    {
+        "TipoDelito":"Receptaci\u00f3n y blanqueo de capitales",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Receptaci\u00f3n y blanqueo de capitales",
+        "Procedencia":"Total",
+        "Valor":2191.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Receptaci\u00f3n y blanqueo de capitales",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":161.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0100909628
+    },
+    {
+        "TipoDelito":"Receptaci\u00f3n y blanqueo de capitales",
+        "Procedencia":"\u00c1frica",
+        "Valor":296.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0237603289
+    },
+    {
+        "TipoDelito":"Resistencia y desobediencia",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":815.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0186210251
+    },
+    {
+        "TipoDelito":"Resistencia y desobediencia",
+        "Procedencia":"Asia",
+        "Valor":41.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0079341274
+    },
+    {
+        "TipoDelito":"Resistencia y desobediencia",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":5372.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0127643348
+    },
+    {
+        "TipoDelito":"Resistencia y desobediencia",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":266.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0381818547
+    },
+    {
+        "TipoDelito":"Resistencia y desobediencia",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":5.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.1122082585
+    },
+    {
+        "TipoDelito":"Resistencia y desobediencia",
+        "Procedencia":"Total",
+        "Valor":8386.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Resistencia y desobediencia",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":538.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0337201118
+    },
+    {
+        "TipoDelito":"Resistencia y desobediencia",
+        "Procedencia":"\u00c1frica",
+        "Valor":1349.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.1082860936
+    },
+    {
+        "TipoDelito":"Resto de delitos",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":206.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.004706664
+    },
+    {
+        "TipoDelito":"Resto de delitos",
+        "Procedencia":"Asia",
+        "Valor":81.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0156747395
+    },
+    {
+        "TipoDelito":"Resto de delitos",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":3555.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0084469863
+    },
+    {
+        "TipoDelito":"Resto de delitos",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":77.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0110526422
+    },
+    {
+        "TipoDelito":"Resto de delitos",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Resto de delitos",
+        "Procedencia":"Total",
+        "Valor":4578.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Resto de delitos",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":190.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0119085897
+    },
+    {
+        "TipoDelito":"Resto de delitos",
+        "Procedencia":"\u00c1frica",
+        "Valor":469.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0376472779
+    },
+    {
+        "TipoDelito":"Robo con fuerza",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":558.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.012749119
+    },
+    {
+        "TipoDelito":"Robo con fuerza",
+        "Procedencia":"Asia",
+        "Valor":34.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0065795203
+    },
+    {
+        "TipoDelito":"Robo con fuerza",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":9815.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0233212856
+    },
+    {
+        "TipoDelito":"Robo con fuerza",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":316.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0453588951
+    },
+    {
+        "TipoDelito":"Robo con fuerza",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":1.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0224416517
+    },
+    {
+        "TipoDelito":"Robo con fuerza",
+        "Procedencia":"Total",
+        "Valor":13767.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Robo con fuerza",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":764.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0478850658
+    },
+    {
+        "TipoDelito":"Robo con fuerza",
+        "Procedencia":"\u00c1frica",
+        "Valor":2279.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.1829384784
+    },
+    {
+        "TipoDelito":"Robo con violencia",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":503.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0114924854
+    },
+    {
+        "TipoDelito":"Robo con violencia",
+        "Procedencia":"Asia",
+        "Valor":30.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0058054591
+    },
+    {
+        "TipoDelito":"Robo con violencia",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":4323.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0102718205
+    },
+    {
+        "TipoDelito":"Robo con violencia",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":102.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0146411623
+    },
+    {
+        "TipoDelito":"Robo con violencia",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Robo con violencia",
+        "Procedencia":"Total",
+        "Valor":7647.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Robo con violencia",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":327.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0204953096
+    },
+    {
+        "TipoDelito":"Robo con violencia",
+        "Procedencia":"\u00c1frica",
+        "Valor":2362.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.1896010031
+    },
+    {
+        "TipoDelito":"Robo y hurto de uso de veh\u00edculo",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":64.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0014622645
+    },
+    {
+        "TipoDelito":"Robo y hurto de uso de veh\u00edculo",
+        "Procedencia":"Asia",
+        "Valor":5.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0009675765
+    },
+    {
+        "TipoDelito":"Robo y hurto de uso de veh\u00edculo",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":1120.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0026612165
+    },
+    {
+        "TipoDelito":"Robo y hurto de uso de veh\u00edculo",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":14.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0020095713
+    },
+    {
+        "TipoDelito":"Robo y hurto de uso de veh\u00edculo",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Robo y hurto de uso de veh\u00edculo",
+        "Procedencia":"Total",
+        "Valor":1409.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Robo y hurto de uso de veh\u00edculo",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":73.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0045754055
+    },
+    {
+        "TipoDelito":"Robo y hurto de uso de veh\u00edculo",
+        "Procedencia":"\u00c1frica",
+        "Valor":133.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0106760937
+    },
+    {
+        "TipoDelito":"Robos",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":1061.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0242416045
+    },
+    {
+        "TipoDelito":"Robos",
+        "Procedencia":"Asia",
+        "Valor":64.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0123849793
+    },
+    {
+        "TipoDelito":"Robos",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":14138.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0335931061
+    },
+    {
+        "TipoDelito":"Robos",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":418.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0600000574
+    },
+    {
+        "TipoDelito":"Robos",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":1.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0224416517
+    },
+    {
+        "TipoDelito":"Robos",
+        "Procedencia":"Total",
+        "Valor":21414.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Robos",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":1091.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0683803754
+    },
+    {
+        "TipoDelito":"Robos",
+        "Procedencia":"\u00c1frica",
+        "Valor":4641.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.3725394815
+    },
+    {
+        "TipoDelito":"Simulaci\u00f3n del delito",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":18.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0004112619
+    },
+    {
+        "TipoDelito":"Simulaci\u00f3n del delito",
+        "Procedencia":"Asia",
+        "Valor":0.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Simulaci\u00f3n del delito",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":286.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0006795606
+    },
+    {
+        "TipoDelito":"Simulaci\u00f3n del delito",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":3.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0004306224
+    },
+    {
+        "TipoDelito":"Simulaci\u00f3n del delito",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Simulaci\u00f3n del delito",
+        "Procedencia":"Total",
+        "Valor":330.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Simulaci\u00f3n del delito",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":7.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0004387375
+    },
+    {
+        "TipoDelito":"Simulaci\u00f3n del delito",
+        "Procedencia":"\u00c1frica",
+        "Valor":16.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0012843421
+    },
+    {
+        "TipoDelito":"Sustracci\u00f3n de menores",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":6.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0001370873
+    },
+    {
+        "TipoDelito":"Sustracci\u00f3n de menores",
+        "Procedencia":"Asia",
+        "Valor":2.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0003870306
+    },
+    {
+        "TipoDelito":"Sustracci\u00f3n de menores",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":19.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0000451456
+    },
+    {
+        "TipoDelito":"Sustracci\u00f3n de menores",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":1.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0001435408
+    },
+    {
+        "TipoDelito":"Sustracci\u00f3n de menores",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Sustracci\u00f3n de menores",
+        "Procedencia":"Total",
+        "Valor":36.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Sustracci\u00f3n de menores",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":5.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0003133839
+    },
+    {
+        "TipoDelito":"Sustracci\u00f3n de menores",
+        "Procedencia":"\u00c1frica",
+        "Valor":3.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0002408141
+    },
+    {
+        "TipoDelito":"Tortura",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":0.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Tortura",
+        "Procedencia":"Asia",
+        "Valor":0.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Tortura",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":21.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0000498978
+    },
+    {
+        "TipoDelito":"Tortura",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":1.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0001435408
+    },
+    {
+        "TipoDelito":"Tortura",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Tortura",
+        "Procedencia":"Total",
+        "Valor":23.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Tortura",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":0.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Tortura",
+        "Procedencia":"\u00c1frica",
+        "Valor":1.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0000802714
+    },
+    {
+        "TipoDelito":"Torturas e integridad moral",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":834.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0190551349
+    },
+    {
+        "TipoDelito":"Torturas e integridad moral",
+        "Procedencia":"Asia",
+        "Valor":53.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.010256311
+    },
+    {
+        "TipoDelito":"Torturas e integridad moral",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":8050.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0191274936
+    },
+    {
+        "TipoDelito":"Torturas e integridad moral",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":113.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0162201112
+    },
+    {
+        "TipoDelito":"Torturas e integridad moral",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Torturas e integridad moral",
+        "Procedencia":"Total",
+        "Valor":10097.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Torturas e integridad moral",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":515.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0322785457
+    },
+    {
+        "TipoDelito":"Torturas e integridad moral",
+        "Procedencia":"\u00c1frica",
+        "Valor":532.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.042704375
+    },
+    {
+        "TipoDelito":"Trato degradante y violencia",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":834.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0190551349
+    },
+    {
+        "TipoDelito":"Trato degradante y violencia",
+        "Procedencia":"Asia",
+        "Valor":53.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.010256311
+    },
+    {
+        "TipoDelito":"Trato degradante y violencia",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":8020.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.019056211
+    },
+    {
+        "TipoDelito":"Trato degradante y violencia",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":112.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0160765704
+    },
+    {
+        "TipoDelito":"Trato degradante y violencia",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Trato degradante y violencia",
+        "Procedencia":"Total",
+        "Valor":10064.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Trato degradante y violencia",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":515.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0322785457
+    },
+    {
+        "TipoDelito":"Trato degradante y violencia",
+        "Procedencia":"\u00c1frica",
+        "Valor":530.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0425438322
+    },
+    {
+        "TipoDelito":"Usurpaci\u00f3n",
+        "Procedencia":"Am\u00e9rica",
+        "Valor":290.0,
+        "Poblacion":4376773.0,
+        "TasaPorcentaje":0.0066258862
+    },
+    {
+        "TipoDelito":"Usurpaci\u00f3n",
+        "Procedencia":"Asia",
+        "Valor":4.0,
+        "Poblacion":516755.0,
+        "TasaPorcentaje":0.0007740612
+    },
+    {
+        "TipoDelito":"Usurpaci\u00f3n",
+        "Procedencia":"Espa\u00f1ola",
+        "Valor":1886.0,
+        "Poblacion":42086016.0,
+        "TasaPorcentaje":0.0044812985
+    },
+    {
+        "TipoDelito":"Usurpaci\u00f3n",
+        "Procedencia":"Europa menos UE27_2020",
+        "Valor":11.0,
+        "Poblacion":696666.0,
+        "TasaPorcentaje":0.0015789489
+    },
+    {
+        "TipoDelito":"Usurpaci\u00f3n",
+        "Procedencia":"Ocean\u00eda",
+        "Valor":0.0,
+        "Poblacion":4456.0,
+        "TasaPorcentaje":0.0
+    },
+    {
+        "TipoDelito":"Usurpaci\u00f3n",
+        "Procedencia":"Total",
+        "Valor":2874.0,
+        "Poblacion":null,
+        "TasaPorcentaje":null
+    },
+    {
+        "TipoDelito":"Usurpaci\u00f3n",
+        "Procedencia":"UE27_2020 sin Espa\u00f1a",
+        "Valor":145.0,
+        "Poblacion":1595487.0,
+        "TasaPorcentaje":0.0090881342
+    },
+    {
+        "TipoDelito":"Usurpaci\u00f3n",
+        "Procedencia":"\u00c1frica",
+        "Valor":538.0,
+        "Poblacion":1245774.0,
+        "TasaPorcentaje":0.0431860032
+    }
+]
