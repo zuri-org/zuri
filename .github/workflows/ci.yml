@@ -10,10 +10,9 @@ jobs:
           python-version: "3.11"
       - name: Install dependencies
         run: |
-          cd ia
           pip install -r requirements.txt
           pip install pytest httpx
+      - name: Set fake OpenAI key for tests
+        run: echo "OPENAI_API_KEY=sk-fake123" >> $GITHUB_ENV
       - name: Run tests
-        run: |
-          cd ia
-          pytest -v
+        run: pytest -v
