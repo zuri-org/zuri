@@ -23,8 +23,8 @@ def get_frontend():
     return FileResponse("frontend.html")
 
 
-DB_PATH_DATOS = "/var/www/api-delitos/ia/delitos.db"  # Asegúrate de que apunte al archivo correcto
-DB_PATH_CONSULTAS = "/var/www/api-delitos/ia/consultas.db" #DB  de  consultas para registro
+DB_PATH_DATOS = "delitos.db"  # Asegúrate de que apunte al archivo correcto
+DB_PATH_CONSULTAS = "consultas.db" #DB  de  consultas para registro
 
 class Consulta(BaseModel):
     frase: str
